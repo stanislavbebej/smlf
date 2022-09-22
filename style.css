@@ -1,0 +1,46 @@
+#BODY {
+	font-family: 'Helvetica';
+	font-size: px;
+}
+
+#HEADER {
+	width: 99%;
+	height: px;
+	background: aliceblue;
+	float: left;
+	margin: 10px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	border-width: 1px;
+	border-color: blue;
+	border-style: dotted;
+	padding: 5px;
+}
+
+#LEFT {
+	width: 10%;
+	height: 100%;
+	float: left;
+	background: #F0FFF0;
+	margin: 10px;
+	margin-right: 10px;
+	margin-left: 0px;
+	margin-bottom: 10px;
+	border-width: 1px;
+	border-color: #00C000;
+	border-style: solid;
+	padding: 15px;
+}
+
+#RIGHT {
+	float: right;
+	background: aliceblue;
+	margin: 10px;
+	margin-right: 10px;
+	margin-left: 0px;
+	margin-bottom: 10px;
+	border-width: 1px;
+	border-color: blue;
+	border-style: dotted;
+	padding: 15px;
+}
